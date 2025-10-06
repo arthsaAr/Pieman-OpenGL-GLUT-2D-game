@@ -6,3 +6,11 @@ g++ main.cpp -lGL -lGLU -lglut -o pieman
 
 To run:
 ./pieman
+
+# if the above doesnot work try
+
+To compile:
+clang++ -lGL -lglut -lGLU main.cpp -o Pieman
+
+To run:
+./pieman
