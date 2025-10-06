@@ -1,0 +1,8 @@
+# Build Instructions for Pieman Game
+Requires: OpenGL and GLUT
+
+To compile:
+g++ main.cpp -lGL -lGLU -lglut -o pieman
+
+To run:
+./pieman
