@@ -1,5 +1,11 @@
-//#include <GLFW/glfw3.h>
-// Some clever use of precompiler directives to automatically adapt to different operating systems when compiling
+/******************************************************************************
+*  File Name:    main.cpp
+*  Author:       Raashtra KC
+*  Date:         2025-10-5
+*  Language:     Java
+*  Notes:        Compile and run(Make sure the required libraries are installed on your system)
+******************************************************************************/
+
 #ifdef __APPLE__
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
