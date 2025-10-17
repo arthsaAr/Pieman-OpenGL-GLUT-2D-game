@@ -2,7 +2,7 @@
 *  File Name:    main.cpp
 *  Author:       Raashtra KC
 *  Date:         2025-10-5
-*  Language:     Java
+*  Language:     C++
 *  Notes:        Compile and run(Make sure the required libraries are installed on your system)
 ******************************************************************************/
 
