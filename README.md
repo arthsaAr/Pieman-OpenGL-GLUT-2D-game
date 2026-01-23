@@ -11,7 +11,19 @@ The game features a player-controlled "Pieman" who moves around a maze eating pe
 - Real-time keyboard input for movement.
 - Basic collision detection with walls.
 - Smooth rendering and animation using GLUT display callbacks.
+- 
+---
+## 📱 App Screens
 
+<p align="center">
+  <img src="Screenshots/Screenshot1.png" width="300" />
+  <img src="Screenshots/Screenshot2.png" width="300" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot3.png" width="300" />
+  <img src="Screenshots/Screenshot4.png" width="300" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
